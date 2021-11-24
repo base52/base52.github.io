@@ -37,7 +37,7 @@
 
 # Compress Alphabet #
 | Digite Encode | Compress | 
-| - | :------------------- |
+| :-: | :------------------- |
 | K | `AA` |
 | L | `AAA` |
 | M | `AAAA` |
@@ -48,13 +48,13 @@
 | R | `AAAAAAAAA` |
 | S | `AAAAAAAAAA` |
 | T | `AAAAAAAAAAA` |
-| U | `vv` |
-| V | `vvv` |
-| W | `vvvv` |
-| X | `vvvvv` |
-| Y | `vvvvvv` |
-| Z | `vvvvvvv` |
-| w | `vvvvvvvv` |
-| x | `vvvvvvvvv` |
-| y | `vvvvvvvvvv` |
-| z | `vvvvvvvvvvv` |
+| U | `AAAAAAAAAAAA` |
+| V | `AAAAAAAAAAAAA` |
+| W | `AAAAAAAAAAAAAA` |
+| X | `AAAAAAAAAAAAAAA` |
+| Y | `AAAAAAAAAAAAAAAA` |
+| Z | `AAAAAAAAAAAAAAAAA` |
+| w | `AAAAAAAAAAAAAAAAAA` |
+| x | `AAAAAAAAAAAAAAAAAAA` |
+| y | `AAAAAAAAAAAAAAAAAAAA` |
+| z | `AAAAAAAAAAAAAAAAAAAAA` |
